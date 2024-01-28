@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="27" viewBox="0 0 26 27">
+    <defs>
+        <linearGradient id="dmlx05i9ea" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#E5E2FF"/>
+            <stop offset="100%" stop-color="#A199FF"/>
+        </linearGradient>
+        <filter id="g4glk385wb" width="150.4%" height="150.4%" x="-25.2%" y="-20.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.324701606 0 0 0 0 0.276900475 0 0 0 0 0.859205163 0 0 0 1 0"/>
+        </filter>
+        <path id="avfdu1t24c" d="M13 3.035c-5.432 0-9.965 4.431-9.965 9.864 0 5.433 4.533 9.966 9.966 9.966 5.433 0 9.864-4.533 9.864-9.966 0-5.433-4.431-9.864-9.864-9.864z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path fill="url(#dmlx05i9ea)" fill-rule="nonzero" d="M13 0C5.884 0 0 5.782 0 12.9c0 7.117 5.883 13 13 13 7.118 0 12.9-5.883 12.9-13C25.9 5.781 20.118 0 13 0z" transform="translate(-30 -260) translate(30 260)"/>
+                <path fill="#FFF" fill-rule="nonzero" d="M18.289 0c2.334 2.335 3.78 5.56 3.78 9.118 0 7.118-5.782 13-12.9 13-3.558 0-6.809-1.47-9.169-3.83z" opacity=".212" transform="translate(-30 -260) translate(30 260) rotate(-180 11.034 11.06)"/>
+                <g transform="translate(-30 -260) translate(30 260)">
+                    <use fill="#000" filter="url(#g4glk385wb)" xlink:href="#avfdu1t24c"/>
+                    <use fill="#FFF" xlink:href="#avfdu1t24c"/>
+                </g>
+                <path fill="#FFF" fill-rule="nonzero" d="M18.289 0c2.334 2.335 3.78 5.56 3.78 9.118 0 7.118-5.782 13-12.9 13-3.558 0-6.809-1.47-9.169-3.83z" opacity=".121" transform="translate(-30 -260) translate(30 260) rotate(-180 11.034 11.06)"/>
+                <text fill="#5F51FF" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" letter-spacing=".326" transform="translate(-30 -260) translate(30 260)">
+                    <tspan x="9.5" y="17">B</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

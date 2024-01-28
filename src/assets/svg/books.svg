@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g fill="none" fill-rule="evenodd" opacity=".8">
+        <g stroke="#292830">
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <path d="M.015.562L4.586.562 4.586 17.984.015 17.984zM.914 15.172L3.648 15.172M6.032.562L10.602.562 10.602 17.984 6.032 17.984zM6.929 15.172L9.664 15.172M17.984 17.242L13.453 17.984 11.188.758 15.718.015zM14 15.055L16.695 14.625" transform="translate(-98 -1827) translate(0 1816) translate(20 12) translate(66.5) translate(12.5)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

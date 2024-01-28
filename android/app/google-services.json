@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722629344654",
+    "project_id": "bada-business-5ea64",
+    "storage_bucket": "bada-business-5ea64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722629344654:android:9e2eb9bf2a89ce4916f8df",
+        "android_client_info": {
+          "package_name": "com.badabusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722629344654-iv3ehfu18i9unacskq355jej6hceuqgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0xeZd79XOoszjgwHEIeUS4f_zfNVrpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722629344654-iv3ehfu18i9unacskq355jej6hceuqgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

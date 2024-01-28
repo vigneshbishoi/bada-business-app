@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <filter id="fajyykcjea" width="165.6%" height="165.6%" x="-32.8%" y="-27.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.213225678 0 0 0 0 0.170320163 0 0 0 0 0.602439991 0 0 0 0.753277972 0"/>
+        </filter>
+        <path id="q3m8r3rxsb" d="M13 3.035c-5.432 0-9.965 4.431-9.965 9.864 0 5.433 4.533 9.966 9.966 9.966 5.433 0 9.864-4.533 9.864-9.966 0-5.433-4.431-9.864-9.864-9.864z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path fill="#8072FF" fill-rule="nonzero" d="M13 0C5.884 0 0 5.782 0 12.9c0 7.117 5.883 13 13 13 7.118 0 12.9-5.883 12.9-13C25.9 5.781 20.118 0 13 0z" opacity=".451" transform="translate(-303 -472) translate(15 449) translate(289 23)"/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M18.289 0c2.334 2.335 3.78 5.56 3.78 9.118 0 7.118-5.782 13-12.9 13-3.558 0-6.809-1.47-9.169-3.83z" opacity=".212" transform="translate(-303 -472) translate(15 449) translate(289 23) rotate(-180 11.034 11.06)"/>
+                    <g transform="translate(-303 -472) translate(15 449) translate(289 23)">
+                        <use fill="#000" filter="url(#fajyykcjea)" xlink:href="#q3m8r3rxsb"/>
+                        <use fill="#8072FF" xlink:href="#q3m8r3rxsb"/>
+                    </g>
+                    <path fill="#FFF" fill-rule="nonzero" d="M18.289 0c2.334 2.335 3.78 5.56 3.78 9.118 0 7.118-5.782 13-12.9 13-3.558 0-6.809-1.47-9.169-3.83z" opacity=".121" transform="translate(-303 -472) translate(15 449) translate(289 23) rotate(-180 11.034 11.06)"/>
+                    <text fill="#FFF" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" letter-spacing=".326" opacity=".8" transform="translate(-303 -472) translate(15 449) translate(289 23)">
+                        <tspan x="9.5" y="17.5">B</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
